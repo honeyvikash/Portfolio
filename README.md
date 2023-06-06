@@ -1,7 +1,12 @@
 # Portfolio Website-Fully Responsive
 
+<div align = "center">
+ <img src="./img/mental-health.png" />
+ <div>
+**Check the Website [here](https://honeyvikash.github.io/Portfolio/)**.
+
 This is a simple portfolio website created using HTML, CSS, and JavaScript. The purpose of this website is to showcase your skills, projects, and experiences to potential employers, clients, or visitors.
-Live - https://honeyvikash.github.io/Portfolio/
+   </br>
 
 ## Sample Screenshots
 ![Portfolio](./img/ss_pc.png)
